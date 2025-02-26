@@ -1,0 +1,4 @@
+ömer,123,false
+emil,159,true
+murad,999,true
+alperen,123,false

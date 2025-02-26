@@ -1,0 +1,20 @@
+1,Tesla,Model S,79999
+2,Ford,Mustang,55999
+3,Honda,Civic,21999
+4,Toyota,Corolla,18999
+5,BMW,3 Series,41999
+6,Audi,A4,42999
+7,Chevrolet,Malibu,23999
+8,Nissan,Altima,24999
+9,Mercedes-Benz,C-Class,43999
+10,Lexus,ES,39999
+11,Volkswagen,Passat,27999
+12,Hyundai,Elantra,19999
+13,Kia,Optima,20999
+14,Subaru,Impreza,22500
+15,Mazda,6,24999
+16,Jeep,Grand Cherokee,31999
+17,Land Rover,Range Rover,89999
+18,Volvo,S60,38999
+19,Jaguar,XE,42999
+20,Infiniti,Q50,41999
